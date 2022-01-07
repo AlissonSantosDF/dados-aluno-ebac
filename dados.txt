@@ -5,7 +5,7 @@ Dados do aluno
 -Cidade: Brasília
 -O que faz nas horas vaga: Construo algoritmos para inteligência artificial
 -Feedback sobre o curso Qualidade de Software: Muito proveitoso, excelente didática capaz de inserir amplos conhecimentos em poucas horas aula.
--Feedback sobre a plataforma de estudo da EBAC: Pessoalmente, gostei muito tando da forma de acesso como pela exibição de conteúdo. Devo ainda ressaltar a ótima qualidade dos vídeos disponíveis.
+-Feedback sobre a plataforma de estudo da EBAC: Pessoalmente, gostei muito tanto da forma de acesso como pela exibição de conteúdo. Devo ainda ressaltar a ótima qualidade dos vídeos disponíveis.
 
 Obrigado!!!
 
